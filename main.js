@@ -93,7 +93,7 @@ const idInvalidCardCompanies = creditCards => {
     return companiesOfInvalidCreditCards;
 }
 
-/* console.log(validateCred(valid1));
+/* console.log(validateCred(valid2));
 console.log(validateCred(invalid1));
 console.log(validateCred(mystery1));
 console.log(findInvalidCards(batch)); */
